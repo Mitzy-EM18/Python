@@ -1,2 +1,2 @@
 # Python
-Notas de Python intermedio
+Notas de Python básico
